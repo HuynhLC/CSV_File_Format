@@ -11,7 +11,7 @@ import model.CSV;
 
 public class CSV_DAO {
     
-    private static final String COMMA_DELIMITER = ",";
+    private static final String COMMA_DELIMITER = ";";
     private static final String NEW_LINE_SEPARATOR = "\n";
     private static CSV_DAO instance = null;
     Library l;
